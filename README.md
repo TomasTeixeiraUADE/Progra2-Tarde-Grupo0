@@ -1,6 +1,6 @@
 # Progra2-Tarde-Grupo0
 
-## Grupo 0 - Programacion II turno tarde
+## Grupo 0 - Programacion II Turno Tarde
 
 ### Integrantes:
 
